@@ -4,8 +4,10 @@
 
 azure-functions
 azure-search-documents
+azure-storage-blob
 azure-core
 openai
 python-dotenv
 PyPDF2
 livereload
+pycryptodome
